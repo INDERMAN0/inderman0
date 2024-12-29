@@ -8,7 +8,7 @@ $ whoami
 
 <!-- Matrix-style Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+playground...;System+security+specialist...;Code+craftsman...;Always+learning,+always+hacking..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&color=00FF00&size=25&center=true&vCenter=true&width=600&lines=InderMan...;Welcome+to+my+digital+playground...;System+security+specialist...;Code+craftsman...;Always+learning,+always+hacking..." />
 </p>
 
 ### 🔐 System Status
